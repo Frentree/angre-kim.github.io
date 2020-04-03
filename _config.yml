@@ -2,7 +2,7 @@ title:              Clean Bl테스트
 email:              angre@daum.net
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            ""
+baseurl:            "/"
 url:                "https://angre-kim.github.io"
 
 # Social Profiles
